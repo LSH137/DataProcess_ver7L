@@ -1,0 +1,4 @@
+/snap/clion/112/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/lsh/Dropbox/CLionProjects/DataProcess_ver7L
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lsh/Dropbox/CLionProjects/DataProcess_ver7L/cmake-build-release
